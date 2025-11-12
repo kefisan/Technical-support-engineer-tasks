@@ -1,0 +1,1 @@
+﻿Console.WriteLine("Task1. To check the task please run Unit Tests.");
